@@ -128,4 +128,14 @@ data-engineering-project/
 This project is designed for learning purposes. Each day's work should be committed to GitHub with proper documentation.
 
 ## 📝 License
-This project is for educational purposes only.
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### MIT License Summary
+- ✅ **Free to use** for commercial and non-commercial purposes
+- ✅ **Free to modify** and distribute
+- ✅ **Free to use privately**
+- ✅ **No warranty** provided
+- ✅ **Attribution required** (include original license and copyright notice)
+
+This license allows others to use, modify, and contribute to your project while protecting you from liability.
